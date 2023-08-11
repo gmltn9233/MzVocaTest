@@ -75,3 +75,12 @@ https://velog.io/@archivvonjang/Git-Commit-Message-Convention
 해당 게시물을 참고하여 깃 메시지를 작성하도록 한다. 
   
 </details>
+
+<details>
+<summary>Git 브랜치 컨벤션</summary>
+  
+## Git Branch 컨벤션
+  
+`이름/기능` 형식으로 브랜치 이름을 만든다. ex) `taehyeon/frontcss`
+  
+</details>
