@@ -4,6 +4,17 @@ MZ를 위한 어휘력 고사 웹 사이트
 > 나의 어휘력과 MZ 용어에 대한 이해를 테스트할 수 있으며  
 > 랭킹 조회를 통해 오답률이 높은 단어에 대해서 확인할 수 있습니다!
 
+## 실행화면
+<div align="center">
+  <img src="https://github.com/gmltn9233/MzVocaTest/assets/63588364/5837fcc6-3360-4f13-8c2a-b48727c38bc6 " width="40%" height="40%">
+  <img src="https://github.com/gmltn9233/MzVocaTest/assets/63588364/f55076eb-aad2-4b2c-b836-01de8aee50b9" width="40%" height="40%">
+</div>
+<div align="center">
+  <img src="https://github.com/gmltn9233/MzVocaTest/assets/63588364/4b3ab82d-ed89-44f6-b022-ff66506bf377" width="40%" height="40%">
+  <img src="https://github.com/gmltn9233/MzVocaTest/assets/63588364/e620d5bf-cfeb-4408-8c63-bffac06c8f50" width="40%" height="40%">
+</div>
+
+
 ## 팀원 소개
 1. **조태현** (https://github.com/whxogus215)
 2. **박유한** (https://github.com/LimitedPark)
